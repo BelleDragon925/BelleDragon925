@@ -4,7 +4,7 @@
 Welcome to my personal and professional repository — a unified system for managing everything I build, support, write, organize, troubleshoot, or develop. This repo serves as a central hub for my business tools, tech scripts, productivity workflows, assistant frameworks, writing systems, and more.
 
 Whether I’m solving tech issues, planning executive schedules, writing content, or coding systems — this space keeps it all running with precision.
-Check out more by openning this README.
+Check out more by openning this README to check out lines 31 - 40!
 ---
 
 ## 📦 What’s Inside
@@ -23,12 +23,11 @@ Check out more by openning this README.
 
 ---
 
-## 📁 File & Folder Structure
+
 
 
 <!--
 **BelleDragon925/BelleDragon925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas of what I am about:
 
 - 🔭 I’m currently working on ...Building my own systems, Coding project for new OS system, creating apps, and more
