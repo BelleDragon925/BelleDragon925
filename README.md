@@ -8,9 +8,7 @@ Here are some ideas of what I am about:
 
 - 🔭 I’m currently working on ...Building my own systems, Coding project for new OS system, creating apps, and more
 - 🌱 I’m currently learning ...IT Help Desk/Information Technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-   💬 Ask me about ...Anything
 - 📫 How to reach me: ...work email: bettynetwork@proton.me or personal email: honeydragon@proton.me
 - 😄 Pronouns: ...she, her
 - ⚡ Work Website: 
