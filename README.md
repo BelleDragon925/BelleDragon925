@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🧰 Betty Systems, Support, Strategy & Solutions
+# 🧰 Betty: Systems, Support, Strategy & Solutions
 
 Welcome to my personal and professional repository — a unified system for managing everything I build, support, write, organize, troubleshoot, or develop. This repo serves as a central hub for my business tools, tech scripts, productivity workflows, assistant frameworks, writing systems, and more.
 
