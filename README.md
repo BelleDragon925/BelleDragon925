@@ -11,7 +11,7 @@ Here are some ideas of what I am about:
 -   💬 Ask me about ...Anything
 - 📫 How to reach me: ...work email: bettynetwork@proton.me or personal email: honeydragon@proton.me
 - 😄 Pronouns: ...she, her
-- ⚡ Work Website: 
+- ⚡ Work Website: https://worksphere05.wordpress.com/
 ---
 
 ## 📦 What’s Inside
