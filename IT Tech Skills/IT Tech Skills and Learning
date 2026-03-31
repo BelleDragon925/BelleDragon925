@@ -1,0 +1,59 @@
+I am learning more and more about the IT Help desk/Support Desk/everything else in this field. 
+Know how to do this: 
+
+Core Skills:
+● Help Desk Ticketing: Spiceworks (setup, ticket logging, resolution)
+● Remote Support: AnyDesk (screen control, troubleshooting, file transfer)
+● Windows 11 Support: User accounts, updates, software issues, troubleshooting
+● Basic Networking: IP, DNS, DHCP, LAN/WAN, ping & traceroute
+● Antivirus: Microsoft Defender – threat detection & response
+● Productivity Tools: Microsoft 365 (Outlook, Word, Excel, Teams, OneDrive)
+● Communication Platforms: Zoom setup, troubleshooting, audio/video fixes
+● Command Line Tools: ipconfig, ping, nslookup, tracert, tasklist, sfc
+● Active Directory: User/group management, OU administration, password resets, security groups, GPO
+basics, domain join troubleshooting, ADUC
+● Documentation: OneNote, Notion (ticket notes, troubleshooting steps)
+● Soft Skills: Active listening, clear communication, professionalism under pressure
+
+Hands-On Projects & Practice:
+Help Desk Simulation – Spiceworks
+● Set up and managed a free Spiceworks ticketing system to simulate IT support.
+● Created, categorized, and resolved practice tickets to mimic real-world workflows.
+
+Remote Troubleshooting – AnyDesk
+● Installed and configured AnyDesk on multiple devices for remote support practice.
+● Provided simulated user assistance for connectivity issues and software installation.
+
+Active Directory & Domain Services Lab
+● User & Group Management: Managed OUs, user accounts, and security groups; administered
+permissions, password policies, and access controls.
+● Group Policy: Configured GPOs to enforce password complexity, map network drives, and restrict
+applications across domain-joined devices.
+● Troubleshooting: Resolved domain join failures, authentication errors, and replication issues using dcdiag,
+repadmin, and Event Viewer.
+● Security Testing: Validated account lockout policies and endpoint protection propagation using simulated
+EICAR tests.
+
+Windows 11 & Security Practice
+● Practiced user account management, updates, and troubleshooting system errors.
+● Tested Microsoft Defender antivirus with safe EICAR test files to understand alerts.
+Networking & Command Line Labs
+●Ran commands (ipconfig, ping, nslookup, tracert) to diagnose connectivity issues.
+●Simulated real-world scenarios (no internet, DNS failure, slow network response).
+
+Office 365 & Zoom Practice
+●Used Outlook, Word, Excel, Teams, and OneDrive for simulated user requests.
+●Hosted and troubleshot Zoom meetings, resolving common audio/video issues.
+
+Technical Projects & Home Lab
+●Network: Connected and Managed Network & router for stable connectivity & traffic prioritization.
+●Hardware: Repaired 10+ laptops/desktops via component swaps (SSD, RAM, battery)
+● Built: Custom PCs
+●Software: Performed clean OS installs (Windows 10/11, Linux), security software, cleaning software, &
+apps.
+
+Documentation Journal – OneNote
+●Maintained a “Help Desk Journal” documenting troubleshooting steps and solutions.
+●Built repeatable guides for common issues such as Wi-Fi errors and Outlook fixes
+
+Learning more and more everyday.
