@@ -1,0 +1,35 @@
+Basic IT Help Desk Troubleshooting (Short Version)
+
+Core Methodology
+
+    Gather Information: Ask what happened, when, where, and to whom. Try to reproduce the issue.
+    Identify Scope: Determine if it affects one user, one device, or multiple systems.
+    Check the Obvious First: Power, cables, network connections, login credentials, recent updates or changes.
+    Isolate the Variable: Change or test one thing at a time to find the root cause.
+    Document Everything: Record steps taken, results, and the final resolution.
+
+Universal Quick Fixes
+
+    Restart the device (resolves a large portion of common issues)
+    Check network connectivity: toggle Wi‑Fi, reseat Ethernet, ping gateway/DNS
+    Verify user permissions: account lockout, password expiry, MFA prompts
+    Clear browser cache/cookies or test in incognito/private mode
+    Update, repair, or reinstall the affected application
+
+Common Scenarios & First Actions
+
+    Can't log in: Confirm caps lock/num lock, reset password, check for account lockout or domain sync issues
+    No internet: Ping local gateway → DNS server → external IP; verify proxy/VPN settings
+    Printer issues: Set as default printer, clear print spooler service, reinstall or update driver
+    Slow performance: Review Task Manager/Activity Monitor, check disk space, pause pending updates
+    App crashes: Run as administrator, try compatibility mode, check Event Viewer or system logs for errors
+
+Pro Tips
+
+    Apply the OSI model mentally: start at Layer 1 (physical/cables) and move up to Layer 7 (application)
+    Master key command-line tools: ipconfig/ifconfig, ping, nslookup, tracert, sfc /scannow
+    Use remote support tools efficiently: screen share, remote desktop, remote PowerShell/SSH
+    Escalate with context: include error messages, steps already tried, and user impact
+    Practice clear communication: confirm understanding, avoid unexplained jargon, verify resolution with the user
+
+    Golden Rule: If it isn't documented, it didn't happen.
