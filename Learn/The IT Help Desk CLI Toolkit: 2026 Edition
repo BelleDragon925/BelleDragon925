@@ -1,0 +1,42 @@
+The IT Help Desk CLI Toolkit: 2026 Edition
+Tags: IT-Support CLI Troubleshooting
+
+GUIs are very good - until they crash and don't work properly. 
+When tickets pile up and time is tight, the command line remains the help desk technician's fastest path to resolution. 
+Here are the essential CLI tools still powering IT support in 2026.
+
+Network
+
+    ping – Verify basic connectivity and DNS resolution.
+    ipconfig / ip addr – Check IP assignment, DHCP status, and adapter config.
+    nslookup / dig – Test DNS resolution independent of browser/DoH settings.
+    tracert / traceroute – Map network paths to isolate latency or routing failures.
+    netstat / ss – Inspect active connections and listening ports for service validation.
+
+System & Performance
+
+    systeminfo / uname -a – Quick OS, version, and hardware overview.
+    tasklist / ps – List running processes to identify hangs or resource hogs.
+    taskkill / kill – Terminate unresponsive applications remotely or locally.
+    getmac / ip link – Retrieve MAC addresses for asset tracking or NAC troubleshooting.
+
+File & Permission Ops
+
+    dir / ls -la – List files with permissions, ownership, and hidden items visible.
+    icacls / chmod / chown – Audit or adjust file/folder access rights.
+    findstr / grep – Search logs or configs for error codes, timestamps, or keywords.
+
+Remote & Admin
+
+    ssh – Securely access Linux/macOS endpoints or network devices.
+    psexec / wmic – Execute commands on remote Windows systems (where policy allows).
+    gpresult / get-gpo – Diagnose Group Policy application issues on Windows.
+
+Here are some tips to keep in mind:
+    Chain commands with && or | to automate multi-step diagnostics.
+    Use | clip (Windows) or | pbcopy (macOS) to pipe output directly to clipboard for ticket notes.
+    Save frequent command sets as aliases or PowerShell functions to cut repetitive typing.
+    Remember: CLI tools bypass GUI lag and work over low-bandwidth remote sessions—critical for hybrid work support.
+
+Master these, and you'll resolve Tier-1 tickets faster, escalate with better data, and keep your workflow scripting-ready. 
+The terminal isn't legacy—it's leverage.
