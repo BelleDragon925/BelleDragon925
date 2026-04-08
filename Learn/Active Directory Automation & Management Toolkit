@@ -1,0 +1,22 @@
+Active Directory Automation & Management Toolkit
+
+A lightweight, script-driven repository designed to streamline routine Active Directory operations. 
+This project focuses on user lifecycle management, group policy validation, OU structure maintenance, 
+and security auditing through modular PowerShell automation.
+
+Core Features
+- Automated user provisioning, attribute updates, and safe deprovisioning workflows
+- OU hierarchy validation and stale object cleanup utilities
+- Group membership auditing with export-ready reporting
+- Password policy and account lockout threshold compliance checks
+- Secure credential handling with built-in execution logging
+
+Usage Guidelines
+Clone the repository, review environment prerequisites, and execute all scripts in an isolated test environment 
+first. Each module includes parameter validation, dry-run capabilities, and inline documentation to prevent
+unintended changes. Always run with least-privilege accounts and verify output before applying modifications to 
+production domains.
+
+tags: 
+#ActiveDirectory #SysAdmin #WindowsServer #PowerShell #IdentityManagement #ITAutomation
+#DirectoryServices #InfoSec
