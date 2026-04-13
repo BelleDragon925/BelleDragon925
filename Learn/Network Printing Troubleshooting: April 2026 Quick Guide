@@ -1,0 +1,24 @@
+Network Printing Troubleshooting: April 2026 Quick Guide
+
+Network printing in April 2026 relies on modern protocols. Legacy discovery methods like NetBIOS and SMBv1 
+are blocked by default. If your printer isn't found, confirm it supports mDNS/Bonjour or WSD over HTTPS. Update 
+printer firmware via the manufacturer's portal; devices older than 2018 may require a USB-connected print server 
+for compatibility.
+
+Intermittent connections often stem from IPv6 addressing. Assign a DHCP reservation using the printer's MAC 
+address to ensure IP stability. Avoid link-local addresses for permanent mappings. If your printer supports static 
+IPv6, use an address outside your router's DHCP range to prevent conflicts.
+
+Connection failures may result from TLS certificate validation. Modern OS versions reject weak or expired 
+certificates. Access the printer's web interface via its IP address and generate a new self-signed certificate using 
+SHA-256 encryption, or install a certificate from a trusted local CA.
+
+Verify network segmentation settings. Guest networks and client isolation features block device-to-device 
+communication. Ensure printer and client share the same private network segment. Allow traffic on ports 9100 
+(raw TCP), 631 (IPP), and 5353 (mDNS) if using VLANs.
+
+For driverless printing, confirm IPP Everywhere over HTTPS is enabled on the printer. Use native OS printing 
+dialogs rather than legacy manufacturer utilities. Update your operating system's print subsystem to ensure protocol compatibility.
+
+When issues persist, power-cycle the printer and router, then test with a direct USB connection to isolate 
+network-specific failures. Document firmware versions and network settings before making changes to enable clean rollback if needed.
