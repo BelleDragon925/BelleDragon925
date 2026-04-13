@@ -22,3 +22,5 @@ dialogs rather than legacy manufacturer utilities. Update your operating system'
 
 When issues persist, power-cycle the printer and router, then test with a direct USB connection to isolate 
 network-specific failures. Document firmware versions and network settings before making changes to enable clean rollback if needed.
+
+printing networking troubleshooting ipv6 mdns security home-office connectivity
