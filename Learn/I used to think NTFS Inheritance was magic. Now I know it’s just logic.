@@ -1,0 +1,32 @@
+I used to think NTFS Inheritance was magic. Now I know it’s just logic. 🧠📂
+
+If you’re new to IT Help Desk or SysAdmin work, file permissions can feel like a black box. You click “Apply,” and 
+suddenly access changes everywhere… or nowhere. And sometimes, it breaks things in ways that make no sense.
+
+I recently dove deep into NTFS Inheritance, and here is the plain-English summary of what actually clicked for me:
+
+1️⃣ It’s Like a Family Tree (But for Files)
+Permissions don’t just sit on one folder. They flow down from parent to child. 
+If you give your boss access to the “Finance” folder, they automatically get access to “Finance/2024” and “Finance/2024/Q1.” 
+That’s inheritance. It saves us from having to set permissions on every single subfolder manually.
+
+2️⃣ “Break Inheritance” is a Big Deal
+There’s a button called “Disable inheritance.” When you click it, 
+you’re essentially saying, “This folder is now an orphan. It no longer listens to its parents.”
+⚠️ Lesson Learned: Only break inheritance if you really need unique permissions for that specific folder. 
+Otherwise, you create a management nightmare where you have to track permissions individually forever.
+
+3️⃣ Explicit > Inherited
+If you manually add a user to a subfolder (explicit permission), that rule wins over whatever the parent folder says 
+(inherited permission). This is why sometimes a user has access to a subfolder even if they don’t have access to 
+the main folder. It’s not a bug; it’s a feature.
+
+4️⃣ The “Effective Access” Tab is Your Best Friend
+Stop guessing. Windows has a built-in tool called “Effective Access” (in Advanced Security Settings). You plug in a 
+user name, and it tells you exactly what they can do. It accounts for all the inherited groups, nested groups, and
+explicit rules. Use it before you panic.
+
+Why does this matter for Help Desk?
+Because 80% of “I can’t open this file” tickets are actually permission inheritance issues. Understanding this saves 
+you hours of troubleshooting and prevents you from accidentally giving everyone Full Control just to make the 
+error go away.
