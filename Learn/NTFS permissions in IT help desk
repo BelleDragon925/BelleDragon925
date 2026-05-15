@@ -1,0 +1,20 @@
+NTFS permissions in IT help desk
+
+ It’s Not Just “Access Denied.” It’s Security. 🔒
+
+We’ve all been there. A user tickets in: “I can’t open this folder.”
+
+The quick fix? Grant “Full Control” and move on. 🛑
+
+But as IT professionals, we know that NTFS permissions are the backbone of Windows security hygiene. 
+Misconfigured permissions aren’t just an inconvenience; they’re a vulnerability.
+
+Quick Refresher for Help Desk Heroes:
+
+✅ Least Privilege Principle: Only grant the permissions necessary for the task. Read-only is often enough.
+✅ Inheritance Matters: Understand how permissions flow from parent folders. Breaking inheritance should be a deliberate choice, not a default.
+✅ Deny vs. Allow: Remember that “Deny” always takes precedence. 
+A single “Deny” entry can override multiple “Allow” entries, causing confusing access issues.
+✅ Groups > Users: Assign permissions to Security Groups, not individual users. It makes management scalable and audit-friendly.
+
+Next time you see an “Access Denied” error, take the extra minute to audit the effective permissions. 
