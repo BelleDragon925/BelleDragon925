@@ -9,13 +9,13 @@ Here are some ideas of what I am about:
 - 🔭 I’m currently working on ...Building my own systems, Coding project for new OS system, creating apps, and more
 - 🌱 I’m currently learning ...IT Help Desk/Information Technology
 -   💬 Ask me about ...Anything
-- 📫 How to reach me: ...work email: bettynetwork@proton.me or personal email: honeydragon@proton.me
-- 😄 Pronouns: ...she, her
+- 📫 How to reach me: email: honeydragon@proton.me or my social media pages
 - ⚡ Work Website: https://tinyurl.com/m5asdbue
 ---
 IT Projects:
 - ShadowHelix Operating System
 - Home Lab
+- AI Agents
   
 ## 📦 What’s Inside
 
