@@ -20,31 +20,30 @@ IT Projects:
 
 | Area                          | Description |
 |-------------------------------|-------------|
-| 🖥️ IT Help Desk               | Diagnostics, troubleshooting tools, scripts, logs |
-| 💼 Business & Admin           | Templates, workflows, automation scripts, client files |
-| ✍️ Writing Systems            | Content planning, writing templates, creative tracking |
+| 🖥️ IT Help Desk                | Diagnostics, troubleshooting tools, scripts, logs |
+| 💼 Business & Admin            | Templates, workflows, automation scripts, client files |
+| ✍️ Writing Systems             | Content planning, writing templates, creative tracking |
 | 🧠 Executive & Virtual Support | Systems, schedules, SOPs, inbox tools, daily ops |
 | 📅 Planning & Organization     | Daily, weekly, and quarterly systems (printable + digital) |
 | 💻 App & Tool Creation         | Code scripts, planning logic, prototypes, utilities |
 | 🔧 Technical Support           | Troubleshooting notes, checklists, tools, OS guides |
-| 🛠️ Toolboxes                  | Curated tools for every role (VA, IT, Writer, Planner, Dev) |
+| 🛠️ Toolboxes                   | Curated tools for every role (VA, IT, Writer, Planner, Dev) |
 | 🧾 Résumés & Portfolios        | Career materials, projects, and live links |
-
+| 🛠️ Coding Projects & OS        | New Operating System of my own creation |
+| 🧾 AI Agents & AI Chats        | All AI Systems that I am either using and creating |
 ---
 
 
-
-
-<!--
 **BelleDragon925/BelleDragon925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas of what I am about:
 
-- 🔭 I’m currently working on ...Building my own systems, Coding project for new OS system, creating apps, and more
-- 🌱 I’m currently learning ...IT Help Desk/Information Technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...work email: bettynetwork@proton.me or personal email: honeydragon@proton.me
-- 😄 Pronouns: ...she, her
-- ⚡ Work Website: 
--->
+- 🔭 I’m currently working on: Building my own systems, Coding project for new OS system, creating apps, and more
+- 🌱 I’m currently learning: IT Help Desk/Information Technology/AI/Networking/Linux/coding
+- 📫 How to reach me:
+- work email: bettynetwork@proton.me
+- or personal email: honeydragon@proton.me
+- ⚡ Current Work Website:
+- https://starwolfsmartassist.notion.site
+  
+  
