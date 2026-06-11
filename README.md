@@ -43,7 +43,7 @@ Here are some ideas of what I am about:
 - 📫 How to reach me:
 - work email: bettynetwork@proton.me
 - or personal email: honeydragon@proton.me
-- ⚡ Current Work Website: https://rb.gy/m4ktxc
+- ⚡ Current Work Website: https://shorturl.at/yE7ah
 
   
   
