@@ -12,7 +12,7 @@ Here are some ideas of what I am about:
 - ⚡ Work Website: https://tinyurl.com/m5asdbue
 ---
 IT Projects:
-- ShadowHelix Operating System https://github.com/BelleDragon925/ShadowHelix.git
+- ShadowHelix Operating System - https://github.com/BelleDragon925/ShadowHelix.git
 - Home Lab - https://github.com/BelleDragon925/Home-Lab.git
 - AI Agents
   
