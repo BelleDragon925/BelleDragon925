@@ -14,7 +14,7 @@ Here are some ideas of what I am about:
 IT Projects:
 - ShadowHelix Operating System - https://github.com/BelleDragon925/ShadowHelix.git
 - Home Lab - https://github.com/BelleDragon925/Home-Lab.git
-- AI Agents
+- AI Agents - https://github.com/BelleDragon925/AI-Agents.git
   
 ## 📦 What’s Inside
 
