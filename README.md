@@ -3,6 +3,8 @@ Hi there! I am Betty.👋
 
 Welcome to my personal and professional repository — a unified system for managing everything I build, support, write, organize, troubleshoot, or develop. This repo serves as a central hub for my business tools, tech scripts, productivity workflows, assistant frameworks, writing systems, and more.
 
+Github Respositories: https://github.com/BelleDragon925?tab=repositories
+
 Whether I’m solving tech issues, planning executive schedules, writing content, or coding systems — this space keeps it all running with precision.
 Here are some ideas of what I am about:
 
@@ -43,6 +45,7 @@ Here are some ideas of what I am about:
 - 📫 How to reach me:
 - work email: betty.s.admin@proton.me
 - or personal email: honeydragon@proton.me
+
 
 
   
