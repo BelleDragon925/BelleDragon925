@@ -8,7 +8,7 @@ Here are some ideas of what I am about:
 
 - 🔭 I’m currently working on ...Building my own systems, Coding project for new OS system, creating apps, and more
 - 🌱 I’m currently learning ...IT Help Desk/Information Technology/Networking/Nvidia/AI/more.
-- 📫 How to reach me: email: honeydragon@proton.me or my social media pages
+- 📫 How to reach me: email: betty.s.admin@proton.me or my social media pages
 - ⚡ Work Website: https://tinyurl.com/m5asdbue
 ---
 IT Projects:
