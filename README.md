@@ -41,7 +41,7 @@ Here are some ideas of what I am about:
 - 🔭 I’m currently working on: Building my own systems, Coding project for new OS system, creating apps, and more
 - 🌱 I’m currently learning: IT Help Desk/Information Technology/AI/Networking/Linux/coding
 - 📫 How to reach me:
-- work email: bettynetwork@proton.me
+- work email: betty.s.admin@proton.me
 - or personal email: honeydragon@proton.me
 
 
